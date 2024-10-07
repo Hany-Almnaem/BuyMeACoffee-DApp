@@ -1,7 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.24;
-//contract on Etherscan: https://sepolia.etherscan.io/address/0xE0F79B20FeFf300C7Ad5170CE3fEFE535E016835#code
-//BuyMeACoffee deployed to: 0xE0F79B20FeFf300C7Ad5170CE3fEFE535E016835.
 contract BuyMeACoffee {
     // Event emitted when a new memory is created
     event NewMemory(
@@ -111,4 +109,3 @@ contract BuyMeACoffee {
         return memos;
     }
 }
-//0x5FbDB2315678afecb367f032d93F642f64180aa3
