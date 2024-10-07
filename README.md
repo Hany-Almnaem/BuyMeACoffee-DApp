@@ -49,7 +49,7 @@ The frontend is built using Next.js and includes a series of UI components and s
 
 1. Clone the repository:
     bash
-    git clone https://github.com/your-username/BuyMeACoffee-DApp.git
+    git clone https://github.com/Hany-Almnaem/BuyMeACoffee-DApp.git
     cd BuyMeACoffee-DApp
 
 2. Install backend dependencies:
@@ -88,17 +88,16 @@ The frontend is built using Next.js and includes a series of UI components and s
 ## Project Demo
 
 ### Connect Wallet
-![Connect Wallet](./assets/connect-wallet.gif)
+<img src="./assets/connect-wallet.gif" width="600px" alt="Connect Wallet" />
 
 ### Buy Coffee
-![Buy Coffee](./assets/buy-coffee.gif)
+<img src="./assets/buy-coffee.gif" width="600px" alt="Buy Coffee" />
 
 ### withdraw-funds for the contract owner
-![Withdraw Funds](./assets/withdraw-funds.gif)
+<img src="./assets/withdraw-funds.gif" width="600px" alt="Withdraw Funds" />
 
 ### View Memo 
-![View Memo](./assets/view-memo.gif)
-
+<img src="./assets/view-memo.gif" width="600px" alt="Withdraw Funds" />
 
 ### Special Considerations
 - **Network Switching**: The DApp is configured to work with the Sepolia test network. Users need to switch to Sepolia in MetaMask.
