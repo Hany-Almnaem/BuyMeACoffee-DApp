@@ -3,6 +3,16 @@
 ## Overview
 The **BuyMeACoffee DApp** is a decentralized tipping application built on the Ethereum blockchain, enabling users to buy virtual coffee for others using Ether. The application provides a way for creators or content providers to receive support in the form of small donations, accompanied by personalized messages stored on-chain.
 
+## Contract Information
+The **BuyMeACoffee DApp** is deployed on the Sepolia test network. You can view and interact with the smart contract using the following details:
+
+- **Contract Address**: [0xE0F79B20FeFf300C7Ad5170CE3fEFE535E016835]
+(https://sepolia.etherscan.io/address/0xE0F79B20FeFf300C7Ad5170CE3fEFE535E016835)
+- **Etherscan Link**: [View Contract on Etherscan](https://sepolia.etherscan.io/address/0xE0F79B20FeFf300C7Ad5170CE3fEFE535E016835#code)
+
+This link provides transparency and allows you to explore the transactions and contract interactions on the blockchain.
+
+
 ## Technologies Used
 - **Solidity (Hardhat)**: For writing and deploying smart contracts.
 - **Next.js**: For building the frontend application with server-side rendering and optimized performance.
